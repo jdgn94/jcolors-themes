@@ -3,6 +3,8 @@
     "displayName": "JColors",
     "description": "JColors is a extension color form vs code",
     "version": "0.0.1",
+    "icon": "JColors.png",
+    "publisher": "JDGN",
     "engines": {
         "vscode": "^1.15.0"
     },
@@ -62,6 +64,5 @@
         "name": "Juan Daniel González Noriega",
         "email": "jdgn@gmail.com",
         "link": "https://www.linkedin.com/in/jdgn94"
-    },
-    "publisher": "jdgn-themes"
+    }
 }
