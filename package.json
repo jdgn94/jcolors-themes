@@ -2,8 +2,8 @@
     "name": "jcolors",
     "displayName": "JColors",
     "description": "JColors is a extension color form vs code",
-    "version": "0.0.1",
-    "icon": "JColors.png",
+    "version": "1.0.0",
+    "icon": "icons/JColors.png",
     "publisher": "JDGN",
     "engines": {
         "vscode": "^1.15.0"
@@ -57,6 +57,26 @@
                 "label": "JC Neon Dark Normal/Italic/Bold",
                 "uiTheme": "vs-dark",
                 "path": "./themes/jc-neon-dark-normal-italic-bold.json"
+            },
+            {
+                "label": "JC Tokyo Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jc-tokyo-dark.json"
+            },
+            {
+                "label": "JC Tokyo Dark Normal/Italic/Bold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jc-tokyo-dark-normal-italic-bold.json"
+            },
+            {
+                "label": "JC 80's Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jc-80s-dark.json"
+            },
+            {
+                "label": "JC 80's Dark Normal/Italic/Bold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jc-80s-dark-normal-italic-bold.json"
             }
         ]
     },
@@ -64,5 +84,13 @@
         "name": "Juan Daniel González Noriega",
         "email": "jdgn@gmail.com",
         "link": "https://www.linkedin.com/in/jdgn94"
+    },
+    "homepage": "https://github.com/jdgn94/jcolors-themes/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jdgn94/jcolors-themes"
+    },
+    "bugs": {
+        "url": "https://github.com/jdgn94/jcolors-themes/issues"
     }
 }

@@ -1,6 +1,6 @@
 {
+  "name": "JC Dracula Dark",
   "type": "dark",
-  "name": "darcula",
   "include": "./_base-dark.json",
   "author": "Juan Daniel González Noriega",
   "maintainers": [

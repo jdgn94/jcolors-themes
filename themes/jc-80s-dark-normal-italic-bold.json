@@ -1,7 +1,7 @@
 {
-  "name": "JC Neon Dark Normal/Italic/Bold",
+  "name": "JC 80's Dark Normal/Italic/Bold",
   "type": "dark",
-  "include": "./jc-neon-dark.json",
+  "include": "./jc-80s-dark.json",
   "author": "Juan Daniel González Noriega",
   "maintainers": [
     "Juan Daniel González Noriega <jdgn94@gmail.com>"
@@ -126,5 +126,5 @@
       }
     }
   ],
-  "uuid": "1f15e32e-c2bd-11ec-9d64-0242ac120002"
+  "uuid": "9d582cea-c2a6-11ec-9d64-0242ac120002"
 }
