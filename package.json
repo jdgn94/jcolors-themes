@@ -2,7 +2,7 @@
     "name": "jcolors",
     "displayName": "JColors",
     "description": "JColors is a extension color form vs code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "icons/JColors.png",
     "publisher": "JDGN",
     "engines": {
