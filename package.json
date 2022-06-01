@@ -2,7 +2,7 @@
     "name": "jcolors",
     "displayName": "JColors",
     "description": "JColors is a extension color form vs code",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icon": "icons/JColors.png",
     "publisher": "JDGN",
     "engines": {
@@ -67,6 +67,16 @@
                 "label": "JC Tokyo Dark Normal/Italic/Bold",
                 "uiTheme": "vs-dark",
                 "path": "./themes/jc-tokyo-dark-normal-italic-bold.json"
+            },
+            {
+                "label": "JC Cherry Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jc-cherry-dark.json"
+            },
+            {
+                "label": "JC Cherry Dark Normal/Italic/Bold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jc-cherry-dark-normal-italic-bold.json"
             },
             {
                 "label": "JC 80's Dark",
