@@ -87,6 +87,21 @@
                 "label": "JC Relax Dark 80's Normal/Italic/Bold",
                 "uiTheme": "vs-dark",
                 "path": "./themes/jc-relax-dark-80s-normal-italic-bold.json"
+            },
+            {
+                "label": "JC Relax Dark Andromeda",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jc-relax-dark-andromeda.json"
+            },
+            {
+                "label": "JC Relax Dark Andromeda Normal/Italic/Bold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jc-relax-dark-andromeda-normal-italic-bold.json"
+            },
+            {
+                "label": "JC Relax Light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jc-relax-light.json"
             }
         ]
     },

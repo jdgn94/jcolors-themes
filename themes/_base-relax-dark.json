@@ -273,8 +273,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#ccc",
-        "fontStyle": "italic"
+        "foreground": "#ccc"
       }
     },
     {
@@ -342,10 +341,8 @@
     },
     {
       "name": "js/ts italic",
-      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
-      "settings": {
-        "fontStyle": "italic"
-      }
+      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super"
+
     },
     {
       "name": "js/ts import keyword",
@@ -927,7 +924,6 @@
       "name": "Headings",
       "scope": "markup.heading",
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#EF596F"
       }
     },
@@ -949,7 +945,6 @@
       "name": "Bold",
       "scope": "markup.bold,todo.bold",
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#D8985F"
       }
     },
@@ -1027,8 +1022,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#5C6370",
-        "fontStyle": "italic"
+        "foreground": "#5C6370"
       }
     },
     {
@@ -1061,17 +1055,11 @@
     },
     {
       "name": "markup.italic.markdown",
-      "scope": "markup.italic.markdown",
-      "settings": {
-        "fontStyle": "italic"
-      }
+      "scope": "markup.italic.markdown"
     },
     {
       "name": "markup.bold.markdown",
-      "scope": "markup.bold.markdown",
-      "settings": {
-        "fontStyle": "bold"
-      }
+      "scope": "markup.bold.markdown"
     },
     {
       "name": "Regular Expressions",
@@ -1368,8 +1356,7 @@
       "name": "js ts this",
       "scope": "var.this,variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx",
       "settings": {
-        "foreground": "#e5c07b",
-        "fontStyle": "italic"
+        "foreground": "#e5c07b"
       }
     },
     {

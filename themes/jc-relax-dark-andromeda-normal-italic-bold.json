@@ -1,7 +1,7 @@
 {
-  "name": "JC Relax Dark Neon Normal/Italic/Bold",
+  "name": "JC Relax Dark Andromeda Normal/Italic/Bold",
   "type": "dark",
-  "include": "./jc-relax-dark-neon.json",
+  "include": "./jc-relax-dark-andromeda.json",
   "author": "Juan Daniel González Noriega",
   "maintainers": [
     "Juan Daniel González Noriega <jdgn94@gmail.com>"
@@ -126,5 +126,5 @@
       }
     }
   ],
-  "uuid": "1f15e32e-c2bd-11ec-9d64-0242ac120002"
+  "uuid": "552cba23-0484-495a-ba56-73a9ed0192cf"
 }

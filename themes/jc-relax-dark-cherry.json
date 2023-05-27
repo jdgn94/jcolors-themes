@@ -1,5 +1,5 @@
 {
-  "name": "JC Cherry Dark",
+  "name": "JC Relax Dark Cherry",
   "type": "dark",
   "include": "./_base-relax-dark.json",
   "author": "Juan Daniel González Noriega",
@@ -530,5 +530,6 @@
         "foreground": "#ffffff"
       }
     }
-  ]
+  ],
+  "uuid": "8281641e-1fe5-4956-9198-04a1b7d158d4"
 }
