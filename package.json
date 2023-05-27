@@ -2,7 +2,7 @@
     "name": "jcolors",
     "displayName": "JColors",
     "description": "JColors is a extension color form vs code",
-    "version": "1.0.2",
+    "version": "2.0.0",
     "icon": "icons/JColors.png",
     "publisher": "JDGN",
     "engines": {
@@ -19,74 +19,74 @@
     "contributes": {
         "themes": [
             {
-                "label": "JC Dark",
+                "label": "JC Relax Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/jc-dark.json"
+                "path": "./themes/jc-relax-dark.json"
             },
             {
-                "label": "JC Dark Normal/Italic/Bold",
+                "label": "JC Relax Dark Normal/Italic/Bold",
                 "uiTheme": "vs-dark",
-                "path": "./themes/jc-dark-normal-italic-bold.json"
+                "path": "./themes/jc-relax-dark-normal-italic-bold.json"
             },
             {
-                "label": "JC Material Dark",
+                "label": "JC Relax Dark Material",
                 "uiTheme": "vs-dark",
-                "path": "./themes/jc-material-dark.json"
+                "path": "./themes/jc-relax-dark-material.json"
             },
             {
-                "label": "JC Material Dark Normal/Italic/Bold",
+                "label": "JC Relax Dark Material Normal/Italic/Bold",
                 "uiTheme": "vs-dark",
-                "path": "./themes/jc-material-dark-normal-italic-bold.json"
+                "path": "./themes/jc-relax-dark-material-normal-italic-bold.json"
             },
             {
-                "label": "JC Dracula Dark",
+                "label": "JC Relax Dark Dracula",
                 "uiTheme": "vs-dark",
-                "path": "./themes/jc-dracula-dark.json"
+                "path": "./themes/jc-relax-dark-dracula.json"
             },
             {
-                "label": "JC Dracula Dark Normal/Italic/Bold",
+                "label": "JC Relax Dark Dracula Normal/Italic/Bold",
                 "uiTheme": "vs-dark",
-                "path": "./themes/jc-dracula-dark-normal-italic-bold.json"
+                "path": "./themes/jc-relax-dark-dracula-normal-italic-bold.json"
             },
             {
-                "label": "JC Neon Dark",
+                "label": "JC Relax Dark Neon",
                 "uiTheme": "vs-dark",
-                "path": "./themes/jc-neon-dark.json"
+                "path": "./themes/jc-relax-dark-neon.json"
             },
             {
-                "label": "JC Neon Dark Normal/Italic/Bold",
+                "label": "JC Relax Dark Neon Normal/Italic/Bold",
                 "uiTheme": "vs-dark",
-                "path": "./themes/jc-neon-dark-normal-italic-bold.json"
+                "path": "./themes/jc-relax-dark-neon-normal-italic-bold.json"
             },
             {
-                "label": "JC Tokyo Dark",
+                "label": "JC Relax Dark Tokyo",
                 "uiTheme": "vs-dark",
-                "path": "./themes/jc-tokyo-dark.json"
+                "path": "./themes/jc-relax-dark-tokyo.json"
             },
             {
-                "label": "JC Tokyo Dark Normal/Italic/Bold",
+                "label": "JC Relax Dark Tokyo Normal/Italic/Bold",
                 "uiTheme": "vs-dark",
-                "path": "./themes/jc-tokyo-dark-normal-italic-bold.json"
+                "path": "./themes/jc-relax-dark-tokyo-normal-italic-bold.json"
             },
             {
-                "label": "JC Cherry Dark",
+                "label": "JC Relax Dark Cherry",
                 "uiTheme": "vs-dark",
-                "path": "./themes/jc-cherry-dark.json"
+                "path": "./themes/jc-relax-dark-cherry.json"
             },
             {
-                "label": "JC Cherry Dark Normal/Italic/Bold",
+                "label": "JC Relax Dark Cherry Normal/Italic/Bold",
                 "uiTheme": "vs-dark",
-                "path": "./themes/jc-cherry-dark-normal-italic-bold.json"
+                "path": "./themes/jc-relax-dark-cherry-normal-italic-bold.json"
             },
             {
-                "label": "JC 80's Dark",
+                "label": "JC Relax Dark 80's",
                 "uiTheme": "vs-dark",
-                "path": "./themes/jc-80s-dark.json"
+                "path": "./themes/jc-relax-dark-80s.json"
             },
             {
-                "label": "JC 80's Dark Normal/Italic/Bold",
+                "label": "JC Relax Dark 80's Normal/Italic/Bold",
                 "uiTheme": "vs-dark",
-                "path": "./themes/jc-80s-dark-normal-italic-bold.json"
+                "path": "./themes/jc-relax-dark-80s-normal-italic-bold.json"
             }
         ]
     },

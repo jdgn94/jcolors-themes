@@ -1,7 +1,7 @@
 {
-  "name": "JC Material Dark Normal/Italic/Bold",
+  "name": "JC Dracula Dark Normal/Italic/Bold",
   "type": "dark",
-  "include": "./jc-material-dark.json",
+  "include": "./jc-relax-dark-dracula.json",
   "author": "Juan Daniel González Noriega",
   "maintainers": [
     "Juan Daniel González Noriega <jdgn94@gmail.com>"
@@ -126,5 +126,5 @@
       }
     }
   ],
-  "uuid": "d383edfa-c2b9-11ec-9d64-0242ac120002"
+  "uuid": "cc119b4e-c2b9-11ec-9d64-0242ac120002"
 }

@@ -1,4 +1,4 @@
-# [Terrafuture Themes for vscode](https://marketplace.visualstudio.com/items?itemName=JDGN.jcolors)
+# [JColors Themes for vscode](https://marketplace.visualstudio.com/items?itemName=JDGN.jcolors)
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/JDGN.jcolors/JC%20Dark)
 [![Version](https://vsmarketplacebadge.apphb.com/version/JDGN.jcolors.svg)](https://marketplace.visualstudio.com/items?itemName=JDGN.jcolors)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-star/JDGN.jcolors.svg)](https://marketplace.visualstudio.com/items?itemName=JDGN.jcolors)
